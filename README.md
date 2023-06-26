@@ -1,7 +1,7 @@
 ﻿### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning blockchain development<br>💬 I'm a full stack Developer using the mern stack<br>👯 I’m looking to collaborate on interesting projects in the web world<br>💬 Ask me about anything you want
+🌱 I’m currently learning about microservices and Mobile development<br>💬 I'm a full stack Developer using the mern stack && Spring Boot<br>👯 I’m looking to collaborate on interesting projects in the web world<br>💬 Ask me about anything you want
 
 
 ## 🌐 Socials:
