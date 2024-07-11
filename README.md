@@ -1,7 +1,7 @@
 ﻿### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning about rust and linux kernel<br>💬 I'm a software engineer<br>👯 I’m looking to collaborate on interesting projects in the software field<br>💬 Ask me about anything you want
+🌱 I’m currently learning about distributed systems <br>💬 I'm a software engineer<br>👯 I’m looking to collaborate on interesting projects in the software field<br>💬 Ask me about anything you want
 
 
 ## 🌐 Socials:
