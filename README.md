@@ -2,7 +2,7 @@
 
 ## Software Engineer | Cloud Security & Application Dependency Management
 
-I am a passionate and results-driven Software Engineer with a strong background in building scalable and robust solutions, with a particular focus on cloud security, application dependency management, and distributed systems. My expertise spans across various technologies, including Java, JavaScript (Node.js), Go, and cloud platforms like Oracle Cloud Infrastructure (OCI).
+I am a passionate and results-driven Software Engineer with a strong background in building scalable and robust solutions, with a particular focus on cloud and distributed systems. My expertise spans across various technologies, including Java, JavaScript (Node.js), Go, and cloud platforms like Oracle Cloud Infrastructure (OCI).
 
 Currently, I am a Software Engineer with the Application Dependency Management (ADM) team at Oracle Cloud Infrastructure (OCI). 
 
